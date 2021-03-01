@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "Web Design and Web Development",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-02-27T16:50:53.098Z",
+      "id": 1
+    },
+    {
+      "message": "Drawing",
+      "attention": false,
+      "tech": "Kyrie Irving",
+      "date": "2021-02-27T16:51:05.208Z",
+      "id": 2
+    },
+    {
+      "message": "Frontend and Backend",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-02-27T16:51:18.368Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "AI Machine Learning and Deep Learning",
+      "attention": false,
+      "tech": "AI Machine Learning",
+      "date": "2021-02-27T16:52:25.806Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Hakan",
+      "lastName": "Bilgic",
+      "id": 4
+    }
+  ]
+}
